@@ -32,7 +32,7 @@ cp .env.sample .env
 
 to create the `.env` file and then fill the `NEXT_PUBLIC_PROJECT_ID` with the project id get from WalletConnect dashboard.
 
-> A temporary project id `19301a87a841afbb902273cd078b5d9d` can be used if you are running the project on `http://127.0.0.1:3000`. This project id is created by Conflux developer for local debugging and anyway we recommend you to create a project id by yourself.
+> A temporary project id `19301a87a841afbb902273cd078b5d9d` can be used if you are running the project on localhost. This project id is created by Conflux developer for local debugging and cannot be used for production builds.
 
 ## Deploy on Vercel
 
